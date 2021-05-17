@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(#126e82, #9dfdc7, #126e82);
+}
+
+#website_name {
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+div {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+}
+
+#LOGO {
+    height: 400px;
+    width: 400px;
+}
